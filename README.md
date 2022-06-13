@@ -25,7 +25,7 @@ O app foi desenvolvido em flutter comm banco de dados local utilizando o ISAR.
 Faça o download ou clona o repositório usando o link abaixo:
 
 ```
-https://github.com/victorlui/Pokedex_Flutter.git
+https://github.com/victorlui/job_timer.git
 ```
 
 **Step 2:**
