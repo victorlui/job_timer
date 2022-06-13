@@ -8,14 +8,14 @@ O app foi desenvolvido em flutter comm banco de dados local utilizando o ISAR.
 
 <!-- HTML CODE-->
 <div>
-    <img src="https://github.com/victorlui/job_timer/blob/master/images/2.jpg" width="350" />
-    <img src="https://github.com/victorlui/job_timer/blob/master/images/1.jpg" width="350" />
+    <img src="https://github.com/victorlui/job_timer/blob/master/imgs/2.jpg" width="350" />
+    <img src="https://github.com/victorlui/job_timer/blob/master/imgs/1.jpg" width="350" />
     
 </div>
 
 <div>
-<img src="https://github.com/victorlui/job_timer/blob/master/images/4.jpg" width="350" />
-<img src="https://github.com/victorlui/job_timer/blob/master/images/3.jpg" width="350" />
+<img src="https://github.com/victorlui/job_timer/blob/master/imgs/4.jpg" width="350" />
+<img src="https://github.com/victorlui/job_timer/blob/master/imgs/3.jpg" width="350" />
 </div>
 
 ## Como executar
