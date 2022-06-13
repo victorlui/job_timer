@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062061455574",
+    "project_id": "job-timer-5d32b",
+    "storage_bucket": "job-timer-5d32b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062061455574:android:1832013b64f49cbc1b7177",
+        "android_client_info": {
+          "package_name": "br.com.victorluiz.job_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062061455574-e7hm8dqhr48rotc5ds1guja308eldk7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTIWXn_mlMVlZiAikTiFF1qzfmLqC-hT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062061455574-e7hm8dqhr48rotc5ds1guja308eldk7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
